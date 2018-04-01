@@ -1,11 +1,14 @@
 button{
-height: 50px;
-width: 32px;
+height: 80px;
+width: 62px;
 position: fixed;
-right:75%;
-bottom:65%;
+right:68%;
+bottom:54%;
 }
 img{
-height: 50px;
-width: 32px;
+height: 70px;
+width: 52px;
+position: fixed;
+right:68.25%;
+bottom:54.75%;
 }
